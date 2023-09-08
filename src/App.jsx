@@ -28,7 +28,7 @@ const siteProps = {
   title: "Entrepreneur, Mobile Application Developer & Student",
   email: "henryagbola223@gmail.com",
   gitHub: "https://github.com/Noobdev20/",
-  linkedIn: "https://www.linkedin.com/in/henry-agboola-00357b277",
+  linkedIn: "https://www.linkedin.com/in/henry-agboola-00357b277/",
 };
 
 const primaryColor = "#000";
