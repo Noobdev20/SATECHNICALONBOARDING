@@ -36,7 +36,7 @@ section.padding {
 section img.background {
   height: 100%;
   left: 50%;
-  object-fit: cover;
+  object-fit: contain;
   pointer-events: none;
   position: absolute;
   top: 0;
@@ -123,7 +123,4 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
-.element{
-  background-image: url('Img.jpeg');
-  background-size:contain;
-}
+
