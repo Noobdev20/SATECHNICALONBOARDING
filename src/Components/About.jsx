@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a distinguished gentleman with a passion for technology. As a computer science student, I excel in computer system repairs and I'm also learning mobile development. Additionally, I proudly serve as a Microsoft student ambassador. Let's connect and explore the exciting world of technology together!"
+  "I'm a distinguished gentleman with a passion for technology. As a computer science student, I excel in computer system repairs and I'm also learning mobile development. Additionally, I proudly serve as a Microsoft student ambassador. Let's connect and explore the exciting world of technology together!";
 
 /**
  * List of some of skills or technologies you work on, are learning,
