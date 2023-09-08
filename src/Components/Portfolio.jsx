@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "My LinkedIn Profile",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Here is my LinkedIn Profile, It also serves as my resume.",
     url: "https://www.linkedin.com/in/henry-agboola-00357b277",
   }, 
 ];
@@ -46,7 +46,7 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            style={{ height: "60%", width: "80%", objectFit: "cover" }}
             alt={imageAltText}
           />
         </div>
